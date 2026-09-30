@@ -11,4 +11,4 @@ Criar uma função que faça a cotação de compra do dólar para os últimos 36
 Nenhum valor
 
 ## Saída do resultado
-Uma lista com 365 valores da cotação de compra [5.65, 5.78, ..., 5.34]
+Uma lista com 365 valores da cotação de compra `[5.65, 5.78, ..., 5.34]`
