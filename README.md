@@ -1,6 +1,6 @@
 # Atividade 2 | Cotação do Dólar para 365 dias
 
-Criar uma função que faça a cotação de compra do dólar para os últimos 365 dias. A função não terá nenhum argumento, deverá ser criada uma sequência de 365 dias e depois executar a rotina para cotar o dólar para cada um destes dias. O dia inicial será o dia em que função foi executada.
+Criar uma função que faça a cotação de compra do dólar para os últimos 365 dias. A função não terá nenhum argumento, deverá ser criada uma sequência de 365 dias e depois executar a rotina para cotar o dólar para cada um destes dias. O dia inicial será o dia em que a função é executada.
 
 - [ ] Toda a funcionalidade em uma função sem argumento, o nome da função deverá ser `cotar`
 - [ ] O arquivo já foi adicionado onde será submetida a resposta `solution.py`
